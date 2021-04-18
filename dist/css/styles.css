@@ -10274,8 +10274,8 @@ form{
 input:focus {
   border-color: green
 }
-.btn {
-  width:25%;
+.btn1 {
+  width:fit-content;
   -webkit-border-radius: 13;
   -moz-border-radius: 13;
   border-radius: 13px;
@@ -10287,7 +10287,7 @@ input:focus {
   text-decoration: none;
 }
 
-.btn:hover {
+.btn1:hover {
   color: white;
   background: #502678;
   background-image: -webkit-linear-gradient(top, #502678, #300357);
